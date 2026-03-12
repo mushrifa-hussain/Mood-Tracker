@@ -1,16 +1,40 @@
-# React + Vite
+# Mood Tracker 😊
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that allows users to select their current mood and displays a message based on the selected mood. This project demonstrates state management and dynamic UI updates using React.
 
-Currently, two official plugins are available:
+## Live Demo
+https://mushrifa-hussain.github.io/Mood-Tracker
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Select your current mood using buttons
+- Displays a message based on the selected mood
+- Dynamic UI updates using React state
+- Simple and user-friendly interface
 
-## React Compiler
+## Technologies Used
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Concepts Practiced
+- React Hooks (`useState`)
+- Event handling in React
+- Conditional rendering
+- Component-based UI design
 
-## Expanding the ESLint configuration
+## How It Works
+1. The user clicks on a mood button.
+2. The application captures the selected mood.
+3. React state updates based on the selected mood.
+4. A message related to the mood is displayed on the screen.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Example Moods
+- Happy 😊
+- Sad 😢
+- Excited 😃
+- Angry 😠
+- Calm 😌
+
+## Project Structure
