@@ -5,6 +5,10 @@ A simple React application that allows users to select their current mood and di
 ## Live Demo
 https://mushrifa-hussain.github.io/Mood-Tracker
 
+## Screenshots
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/fa7387e4-1084-4cd4-81a3-e346bc9539e1" />
+
+
 ## Features
 - Select your current mood using buttons
 - Displays a message based on the selected mood
