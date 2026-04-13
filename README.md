@@ -7,7 +7,7 @@ https://mushrifa-hussain.github.io/Mood-Tracker
 
 ## Screenshots
 <img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/fa7387e4-1084-4cd4-81a3-e346bc9539e1" />
-
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/b3e54cdb-128b-4c30-bec9-b4dbe4fefce0" />
 
 ## Features
 - Select your current mood using buttons
